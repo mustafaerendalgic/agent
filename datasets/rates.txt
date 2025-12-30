@@ -1,0 +1,41 @@
+LLM-Friendly Normalized Eurobond Coupon Dataset
+
+Source: Gedik Yatırım – Günlük Eurobond Bülteni
+All entries are converted from tabular data into explicit natural language.
+
+The USD-denominated Turkish Eurobond with bond code 691 matures on 26 January 2026 and pays a fixed coupon rate of 2.375%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 669 matures on 14 April 2026 and pays a fixed coupon rate of 2.125%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 680 matures on 09 October 2026 and pays a fixed coupon rate of 2.437%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 637 matures on 25 March 2027 and pays a fixed coupon rate of 3.000%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 611 matures on 24 September 2027 and pays a fixed coupon rate of 4.300%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 629 matures on 15 January 2028 and pays a fixed coupon rate of 4.937%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 638 matures on 17 February 2028 and pays a fixed coupon rate of 2.562%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 654 matures on 24 October 2028 and pays a fixed coupon rate of 3.062%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 688 matures on 14 March 2029 and pays a fixed coupon rate of 4.687%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 645 matures on 26 April 2029 and pays a fixed coupon rate of 3.812%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 630 matures on 15 January 2030 and pays a fixed coupon rate of 5.937%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 668 matures on 13 March 2030 and pays a fixed coupon rate of 2.625%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 695 matures on 13 July 2030 and pays a fixed coupon rate of 4.562%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 628 matures on 15 January 2031 and pays a fixed coupon rate of 2.975%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 698 matures on 26 June 2031 and pays a fixed coupon rate of 2.937%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 662 matures on 12 February 2032 and pays a fixed coupon rate of 3.562%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 650 matures on 29 May 2032 and pays a fixed coupon rate of 3.625%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 624 matures on 17 July 2032 and pays a fixed coupon rate of 3.562%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 617 matures on 19 January 2033 and pays a fixed coupon rate of 4.687%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 623 matures on 20 September 2033 and pays a fixed coupon rate of 3.250%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 631 matures on 14 February 2034 and pays a fixed coupon rate of 4.000%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 660 matures on 15 May 2034 and pays a fixed coupon rate of 3.812%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 644 matures on 03 January 2035 and pays a fixed coupon rate of 3.250%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 612 matures on 16 September 2035 and pays a fixed coupon rate of 3.475%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 670 matures on 17 March 2036 and pays a fixed coupon rate of 3.437%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 636 matures on 04 November 2036 and pays a fixed coupon rate of 3.400%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 663 matures on 05 March 2038 and pays a fixed coupon rate of 3.625%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 675 matures on 30 May 2040 and pays a fixed coupon rate of 3.375%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 678 matures on 14 January 2041 and pays a fixed coupon rate of 3.000%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 667 matures on 16 April 2043 and pays a fixed coupon rate of 2.437%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 615 matures on 17 February 2045 and pays a fixed coupon rate of 3.312%, with semi-annual coupon payments.
+The USD-denominated Turkish Eurobond with bond code 610 matures on 11 May 2047 and pays a fixed coupon rate of 2.875%, with semi-annual coupon payments.
+The EUR-denominated Turkish Eurobond with bond code 647 matures on 16 February 2026 and pays a fixed coupon rate of 5.200%, with annual coupon payments.
+The EUR-denominated Turkish Eurobond with bond code 642 matures on 08 July 2027 and pays a fixed coupon rate of 4.375%, with annual coupon payments.
+The EUR-denominated Turkish Eurobond with bond code 682 matures on 21 May 2030 and pays a fixed coupon rate of 5.875%, with annual coupon payments.
+The EUR-denominated Turkish Eurobond with bond code 607 matures on 17 August 2031 and pays a fixed coupon rate of 5.641%, with annual coupon payments.

@@ -1,0 +1,17 @@
+# --- Core RAG & Database ---
+chromadb
+langchain-huggingface
+PyPDF2
+
+# --- AI Models & APIs ---
+openai
+groq
+google-generativeai
+
+# --- Financial Data & Tools ---
+yfinance
+
+# --- Utilities ---
+sentence-transformers
+# Google Colab ortamı dışında çalıştıracaksanız aşağıdaki kütüphane gerekebilir:
+# python-dotenv

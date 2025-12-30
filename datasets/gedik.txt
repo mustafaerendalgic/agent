@@ -1,0 +1,93 @@
+Piyasa Özetleri ve Karşılaştırmalı Getiriler
+24 Aralık 2025 itibarıyla Türkiye 2029 vadeli USD Eurobond getirisi %5,01 seviyesindedir ve bir önceki aya göre 25 baz puan düşüş göstermiştir.
+
+Brezilya 2029 vadeli tahvilin getirisi %4,68, Güney Afrika 2029 vadeli tahvilin getirisi ise %4,72 olarak kaydedilmiştir.
+
+Türkiye 2036 vadeli tahvilin getirisi %6,41 iken, Brezilya 2035 tahvili %6,13 ve Güney Afrika 2036 tahvili %6,12 getiri sunmaktadır.
+
+ABD 10 yıllık tahvil faizi %4,13, Almanya 10 yıllık tahvil faizi %2,86 ve Japonya 10 yıllık tahvil faizi %2,04 seviyesindedir.
+
+Türkiye'nin 5 yıllık CDS spread değeri 276,1 baz puan ile sabit kalırken, Brezilya'nın CDS değeri 151,3 ve Güney Afrika'nın 183,6 baz puandır.
+
+Türkiye Cumhuriyeti Devlet Tahvilleri (USD)
+JS900123AL40 ISIN kodlu, 15 Ocak 2030 vadeli tahvilin kupon oranı %11,875'tir; alış fiyatı 126,124, satış fiyatı 125,620 ve alış getirisi %4,716'dır.
+
+JS900123AT75 ISIN kodlu, 14 Şubat 2034 vadeli tahvilin kupon oranı %8,000'dir; alış fiyatı 112,313 ve satış fiyatı 111,723 seviyesindedir.
+
+JS900123AY60 ISIN kodlu, 17 Mart 2036 vadeli tahvilin kupon oranı %6,875'tir; alış fiyatı 103,405 ve satış fiyatı 102,922'dir.
+
+JS900123BB58 ISIN kodlu, 5 Mart 2038 vadeli tahvilin kupon oranı %7,250'dir; alış fiyatı 108,820 ve satış fiyatı 108,119 seviyesindedir.
+
+JS900123CG37 ISIN kodlu, 17 Şubat 2045 vadeli tahvilin kupon oranı %6,625'tir; alış fiyatı 93,558 ve alış getirisi %7,252'dir.
+
+S900123CM05 ISIN kodlu, 11 Mayıs 2047 vadeli tahvilin kupon oranı %5,750'dir; alış fiyatı 82,504 ve satış fiyatı 82,093 seviyesindedir.
+
+26 Ocak 2026 vadeli kısa vadeli devlet tahvilinin kupon oranı %4,750, alış fiyatı ise 100,083'tür.
+
+25 Mart 2027 vadeli devlet tahvilinin kupon oranı %6,000 iken, 24 Eylül 2027 vadeli tahvilin kupon oranı %8,600'dür.
+
+Bankalar ve Finans Sektörü Tahvilleri (USD)
+Vakıfbank 8 Ocak 2026 vadeli tahvilin kupon oranı %6,500'dür; alış fiyatı 100,108 ve satış fiyatı 100,107'dir.
+
+TSKB 14 Ocak 2026 vadeli tahvilin kupon oranı %5,875 ve alış fiyatı 100,102 seviyesindedir.
+
+Akbank 6 Şubat 2026 vadeli tahvilin kupon oranı %6,800, alış fiyatı 100,352 ve satış fiyatı 100,279'dur.
+
+Ziraat Bankası 2 Mart 2026 vadeli tahvilin kupon oranı %5,375 iken, 1 Ağustos 2026 vadeli tahvilin kupon oranı %9,500'dür.
+
+Türk İhracat Kredi Bankası (Eximbank) 6 Temmuz 2026 vadeli tahvilin kupon oranı %5,750 ve alış fiyatı 100,921'dir.
+
+Garanti Bankası 24 Mayıs 2027 vadeli sermaye benzeri (subordinated) tahvilin kupon oranı %7,177 ve alış fiyatı 103,487'dir.
+
+İş Bankası 29 Haziran 2028 vadeli sermaye benzeri tahvilin kupon oranı %9,192 ve alış fiyatı 108,065 seviyesindedir.
+
+Yapı Kredi 16 Ekim 2028 vadeli tahvilin kupon oranı %9,250, alış fiyatı ise 109,888'dir.
+
+Özel Sektör (Finans Dışı) ve Sukuk Tahvilleri
+Şişecam 14 Mart 2026 vadeli tahvilin kupon oranı %6,950 ve alış fiyatı 100,181'dir.
+
+Pegasus 30 Nisan 2026 vadeli tahvilin kupon oranı %9,250 seviyesindedir.
+
+Arçelik 27 Mayıs 2026 vadeli EUR cinsi tahvilin kupon oranı %3,000 ve alış fiyatı 100,287'dir.
+
+İstanbul Büyükşehir Belediyesi 12 Nisan 2027 vadeli tahvilin kupon oranı %10,750 iken, 6 Aralık 2028 vadeli tahvilin kupon oranı %10,500'dür.
+
+Turkcell 11 Nisan 2028 vadeli tahvilin kupon oranı %5,800 ve alış fiyatı 101,105'tir.
+
+Ford Otomotiv 25 Nisan 2029 vadeli tahvilin kupon oranı %7,125 ve alış fiyatı 103,781 seviyesindedir.
+
+Hazine Müsteşarlığı Varlık Kiralama (Sukuk) 24 Şubat 2027 vadeli tahvilin kupon oranı %7,250 ve alış fiyatı 103,487'dir.
+
+Operasyonel ve Yasal Kurallar (Gözden Kaçmaması Gerekenler)
+
+İşlem Alt Limiti: Eurobond alım-satım işlemleri için minimum nominal tutar 1.000 USD'dir.
+
+
+
+Valör Süresi: İkincil piyasalarda Türkiye Hazinesi ihraçlı Eurobondlarda işlem valörü T+2 (işlem günü + 2 iş günü) olarak uygulanır.
+
+
+
+Vergi Beyan Sınırı: 2025 yılı için tam mükellef gerçek kişilerin elde ettiği faiz gelirleri 330.000 TL beyan sınırını aşarsa tamamı beyan edilmelidir.
+
+
+
+
+
+Stopaj Oranı: Eurobond faiz gelirleri üzerinden alınan stopaj oranı %0 iken, AKE gibi yatırım fonları üzerinden elde edilen kazançlar %10 stopaja tabidir.
+
+
+
+
+Risk Profili: Eurobond yatırımları, anapara değer kaybı ihtimali yüksek olduğu için "Çok Yüksek Risk" profili ile uyumludur.
+
+
+Fon ve Portföy Bilgileri
+
+AKE Fon Stratejisi: Fon portföyünün en az %80'i sürekli olarak USD cinsi Türk kamu ve özel sektör Eurobondlarında tutulur.
+
+
+Yönetim Ücreti: AKE - Eurobond (USD) Borçlanma Araçları Fonu'nun yıllık yönetim ücreti %2.00'dir.
+
+
+Fon Kuruluş Tarihi: Ak Portföy AKE fonu 2 Aralık 2010 tarihinde kurulmuştur.
